@@ -29,8 +29,8 @@
 |---|---|---|
 | 📄 PDF | Edital nº 01/2026 da FAPESP | Documento oficial, define o que cai na prova |
 | 📄 PDF | Prova de Analista Administrativo FAPESP 2026 | Mesma banca e mesmo cargo |
-| 📄 PDF | Prova de Analista de Sistemas FAPESP 2026 | Cobre a parte de TI |
-| 📄 PDF | Prova de Analista Administrativo FAPESP 2012 | Só para ver o estilo da banca |
+| 📄 PDF | Prova de Analista de Sistemas FAPESP 2026 | Estudo da banca que cobre a parte de TI |
+| 📄 PDF | Prova de Analista Administrativo FAPESP 2012 | Estudo da banca |
 | 🎥 Vídeo | Administração Pública – Prof. Werisleyk | Professor focado em concursos, com dicas de pegadinhas da Vunesp |
 
 ---
